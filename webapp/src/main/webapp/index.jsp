@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>CICD project modifications through local git </h1>   
+         <h1>Diwali offers provided AMAZON E-COMMERCE company till 30th november </h1>   
 	 
 
     </section>    
