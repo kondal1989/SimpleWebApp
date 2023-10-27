@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Diwali offers MOBILES AND LAPTOPS available till 30th november</h1>   
+         <h1>CICD project modifications through local git </h1>   
 	 
 
     </section>    
