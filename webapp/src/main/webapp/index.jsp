@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>Diwali offers provided AMAZON E-COMMERCE company till 30th november </h1>   
+         <h1>JENKINS CICD PROJECT </h1>   
 	 
 
     </section>    
