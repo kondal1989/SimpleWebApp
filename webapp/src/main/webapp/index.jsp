@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>JENKINS CICD PROJECT </h1>   
+         <h1>MY NEW JENKINS CICD PROJECT FOR DIWALI FESTIVAL </h1>   
 	 
 
     </section>    
