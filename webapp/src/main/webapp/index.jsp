@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	<h1><b>WELCOME TO HYDERABAD PREPARED WELL THEN ATTEND TO INTERVIEWS </b></h1>   
+	<h1><b>WELCOME TO TIRUPATI PREPARED WELL THEN ATTEND TO INTERVIEWS be confudent </b></h1>   
 	 
 
     </section>    
