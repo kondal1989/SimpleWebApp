@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	<h1><b>DIWALI OFFERS TILL NOVERBMER BUY ONE GET ONE FREE HURRY UP </b></h1>   
+	<h1><b>HAPPY DIWALI </b></h1>   
 	 
 
     </section>    
