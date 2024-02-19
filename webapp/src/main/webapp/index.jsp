@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	<h1><b>Please prepared well and try to get the job </b></h1>   
+	<h1><b>Hello </b></h1>   
 	 
 
     </section>    
