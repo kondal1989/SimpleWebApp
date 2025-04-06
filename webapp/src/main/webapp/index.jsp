@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	<h1><b>welcome to TIRUPATI you have a good future </b></h1>   
+	<h1><b>welcome to NELLORE you have a good future </b></h1>   
 	 
 
     </section>    
