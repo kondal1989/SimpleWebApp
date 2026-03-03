@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+i<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">AMAZON shopping website</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">Value Zone shopping mall</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	<h1><b>welcome to NELLORE you have a good future </b></h1>   
+	<h1><b>welcome to Hyderbad kondal </b></h1>   
 	 
 
     </section>    
