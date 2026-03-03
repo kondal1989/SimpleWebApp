@@ -89,7 +89,7 @@ h1{
     
     <section id="home">
         <header>
-            <span style="font-size:64px;margin-right:10px;color:orange">Value Zone shopping mall</span>
+            <span style="font-size:64px;margin-right:10px;color:orange">KLM SHOPPING MALL</span>
             <ul id="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About Us</a></li>
@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	<h1><b>welcome to WARANGAL kondal </b></h1>   
+	<h1><b>welcome to KAVALI kondal </b></h1>   
 	 
 
     </section>    
