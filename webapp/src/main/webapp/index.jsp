@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-	<h1><b>welcome to Hyderbad kondal </b></h1>   
+	<h1><b>welcome to WARANGAL kondal </b></h1>   
 	 
 
     </section>    
