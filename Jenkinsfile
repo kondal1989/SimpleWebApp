@@ -2,8 +2,9 @@ pipeline {
     agent any
 
     tools {
-        maven 'Maven-3'   // Make sure Maven is configured in Jenkins Global Tools
-    }
+    maven 'Maven-3'
+    jdk 'jdk-11'
+}
 
     stages {
 
@@ -23,7 +24,7 @@ pipeline {
         stage('Deploy to Tomcat') {
             steps {
                 sh '''
-                scp target/*.war ubuntu@http://http://3.145.99.11:8090/:/opt/tomcat/webapps/
+                scp target/*.war ubuntu@3.145.99.11:/opt/tomcat/webapps/
                 '''
             }
         }
