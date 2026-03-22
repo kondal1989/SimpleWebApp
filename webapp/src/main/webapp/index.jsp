@@ -3,7 +3,7 @@ i<!DOCTYPE html>
 
 <head>
     <meta charset="UTF-8">
-    <title> SARAVANA shopping website</title>
+    <title> SARAVANAAAA shopping website</title>
     <link rel="stylesheet" href="style.css">
 <style>
 	*{
